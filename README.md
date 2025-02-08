@@ -122,6 +122,11 @@ ai-agent/
 
 ---
 
+## 🎥 Demo Video
+![Watch the demo](demo.mp4)
+
+---
+
 ## 🏆 Contributing
 
 1. Fork the repository
@@ -129,6 +134,11 @@ ai-agent/
 3. Commit your changes (`git commit -m 'Add new feature'`)
 4. Push to the branch (`git push origin feature-branch`)
 5. Open a Pull Request
+
+---
+
+## 📜 License
+This project is licensed under the MIT License.
 
 ---
 
