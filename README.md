@@ -122,11 +122,6 @@ ai-agent/
 
 ---
 
-## 🎥 Demo Video
-![Watch the demo](video_2025-02-08_11-17-34.mp4)
-
----
-
 ## 🏆 Contributing
 
 1. Fork the repository
