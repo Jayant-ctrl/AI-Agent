@@ -123,7 +123,7 @@ ai-agent/
 ---
 
 ## 🎥 Demo Video
-![Watch the demo](demo.mp4)
+![Watch the demo](video_2025-02-08_11-17-34.mp4)
 
 ---
 
