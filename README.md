@@ -132,11 +132,6 @@ ai-agent/
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License.
-
----
-
 ## 🎯 Future Improvements
 - Add authentication for API access
 - Deploy using Docker
